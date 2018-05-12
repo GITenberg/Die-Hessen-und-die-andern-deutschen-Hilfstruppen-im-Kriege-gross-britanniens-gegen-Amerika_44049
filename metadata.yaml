@@ -1,0 +1,35 @@
+_repo: Die-Hessen-und-die-andern-deutschen-Hilfstruppen-im-Kriege-gross-britanniens-gegen-Amerika_44049
+_version: 0.1.0
+alternative_title: The Hessians and the other German auxiliaries of Great Britain
+  in the Revolutionary War. German
+contributor:
+  translator:
+    agent_name: Verschuer, O. C., Freiherr von
+    gutenberg_agent_id: '42544'
+    url: http://www.gutenberg.org/2009/agents/42544
+covers:
+- cover_type: archival
+  image_path: 44049-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lowell, Edward J. (Edward Jackson)
+    alias: Lowell, Edward Jackson
+    birthdate: 1845
+    deathdate: 1894
+    gutenberg_agent_id: '1985'
+    url: http://www.gutenberg.org/2009/agents/1985
+description: ''
+gutenberg_issued: '2013-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44049'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Participation, German'
+title: Die Hessen und die andern deutschen Hilfstruppen im Kriege gross-britanniens
+  gegen Amerika, 1776-1783
+url: http://www.gutenberg.org/ebooks/44049
