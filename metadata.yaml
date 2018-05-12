@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '1985'
     url: http://www.gutenberg.org/2009/agents/1985
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44049#Die-Hessen-und-die-andern-deutschen-Hilfstruppen-im-Kriege-gross-britanniens-gegen-Amerika
 gutenberg_issued: '2013-10-27'
 gutenberg_type: Text
 identifiers:
